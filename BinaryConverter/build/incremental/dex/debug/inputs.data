@@ -1,0 +1,17 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1368822276000 857 43c5ff1151a9f8daedc74a768b9af319a546c9ff /Users/santiago/AndroidStudioProjects/BinaryConversor/BinaryConversor/build/classes/debug/ar/com/santihollmann/binaryconversor/R.class
+1368822276000 570 5d06b892390589e8be7ae9a9dfb02231165df991 /Users/santiago/AndroidStudioProjects/BinaryConversor/BinaryConversor/build/classes/debug/ar/com/santihollmann/binaryconversor/R$id.class
+1368815022000 484258 bd6479f5dd592790607e0504e66e0f31c2b4d308 /Users/santiago/AndroidStudioProjects/BinaryConversor/BinaryConversor/libs/android-support-v4.jar
+1368823141000 1588 ea3a9acbaf96acd8d8e13b88048059c99b32a9c8 /Users/santiago/AndroidStudioProjects/BinaryConversor/BinaryConversor/build/classes/debug/ar/com/santihollmann/binaryconversor/MainActivity.class
+1368815196000 515 1a323727e2e23cf7baf96e4becca7f2a29ceb17e /Users/santiago/AndroidStudioProjects/BinaryConversor/BinaryConversor/build/classes/debug/ar/com/santihollmann/binaryconversor/R$dimen.class
+1368815196000 461 af007b9b25daa75147200d030f25f79493ebebf7 /Users/santiago/AndroidStudioProjects/BinaryConversor/BinaryConversor/build/classes/debug/ar/com/santihollmann/binaryconversor/R$drawable.class
+1368822276000 457 893b5846a5c34f5d50ae05571e728422f5750655 /Users/santiago/AndroidStudioProjects/BinaryConversor/BinaryConversor/build/classes/debug/ar/com/santihollmann/binaryconversor/R$layout.class
+1368815196000 394 6d83385abb2f698f14e551fa25d56cbcf9fa0c02 /Users/santiago/AndroidStudioProjects/BinaryConversor/BinaryConversor/build/classes/debug/ar/com/santihollmann/binaryconversor/R$attr.class
+1368822276000 619 41fd0112f2a79796f6e7ef133d4b9a2b9df6da52 /Users/santiago/AndroidStudioProjects/BinaryConversor/BinaryConversor/build/classes/debug/ar/com/santihollmann/binaryconversor/R$string.class
+1368823141000 1535 2f66cddee13d185fc219fdf7518168f584adc178 /Users/santiago/AndroidStudioProjects/BinaryConversor/BinaryConversor/build/classes/debug/ar/com/santihollmann/binaryconversor/MainActivity$1.class
+1368822276000 485 84b8a9954324981c5133ff8e4474f0e78d5acbd0 /Users/santiago/AndroidStudioProjects/BinaryConversor/BinaryConversor/build/classes/debug/ar/com/santihollmann/binaryconversor/R$style.class
+1368815196000 381 03b746e4d4ea9b3182398453b41a81c4fc18b788 /Users/santiago/AndroidStudioProjects/BinaryConversor/BinaryConversor/build/classes/debug/ar/com/santihollmann/binaryconversor/BuildConfig.class
+1368822276000 442 106b83905814ba5bb05746f679f5d48d606bf428 /Users/santiago/AndroidStudioProjects/BinaryConversor/BinaryConversor/build/classes/debug/ar/com/santihollmann/binaryconversor/R$menu.class
+1368824169000 1108 4fb74afb5917e6d948295cbc78982034d0b7c562 /Users/santiago/AndroidStudioProjects/BinaryConversor/BinaryConversor/build/classes/debug/ar/com/santihollmann/binaryconversor/NumberConverter.class

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" >Binary Converter
+    </string>
+    <string name="action_settings" >Settings
+    </string>
+    <string name="your_decimal_number">Your decimal number</string>
+    <string name="you_number_in_binary">Your number in binary</string>
+    <string name="convert_to_binary">Convert to binary</string>
+
+</resources>
